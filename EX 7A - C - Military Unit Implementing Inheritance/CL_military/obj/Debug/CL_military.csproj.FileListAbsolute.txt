@@ -1,0 +1,6 @@
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\bin\Debug\CL_military.dll
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\bin\Debug\CL_military.pdb
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\obj\Debug\CL_military.csprojAssemblyReference.cache
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\obj\Debug\CL_military.csproj.CoreCompileInputs.cache
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\obj\Debug\CL_military.dll
+C:\Users\Kenne\source\repos\EX 7A - C - Military Unit Implementing Inheritance\CL_military\obj\Debug\CL_military.pdb
